@@ -1,6 +1,8 @@
 This is a Pytorch Lightning version PSMNet 
 which is based on [JiaRenChang/PSMNet](https://github.com/JiaRenChang/PSMNet).
 
+use `python main.py` to start training.
+
 
 # PSM-Net
 
