@@ -1,3 +1,7 @@
+This is a Pytorch Lightning version PSMNet 
+which is based on [JiaRenChang/PSMNet](https://github.com/JiaRenChang/PSMNet).
+
+
 # PSM-Net
 
 Pytorch reimplementation of PSM-Net: "[Pyramid Stereo Matching Network](https://arxiv.org/abs/1803.08669)" paper (CVPR 2018) by Jia-Ren Chang and Yong-Sheng Chen.
